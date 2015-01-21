@@ -1,0 +1,42 @@
+  html {
+    background-color: black;
+  }
+  .container {
+    margin: 1em auto;
+    margin-bottom: 0px;
+    position: relative;
+    border: solid 1px red;
+  }
+  .grid {
+    margin: 0 auto;
+    display: inline-block;
+    background: url(img/grass.png);
+    margin:  0;
+    padding: 0;
+    height: 15px;
+    width: 15px;
+  }
+  .grid:hover {
+    background: None;
+    background-color: purple;
+  }
+  .controlPanel {
+    margin: 0 auto;
+    position: relative;
+    background-color: tan;
+    border: solid 1px red;
+    font-family: calibri;
+    font-size: 12px;
+  }
+  .controlPanel li {
+    list-style: none;
+  }
+  .zoom p{
+    font-size: 40px;
+    text-decoration: none;
+    float: right;
+  }
+  .zoom p:hover{
+    color: green;
+    cursor: pointer;
+  }
