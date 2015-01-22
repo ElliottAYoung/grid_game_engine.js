@@ -10,7 +10,7 @@
   .grid {
     margin: 0 auto;
     display: inline-block;
-    background: url(img/grass.png);
+    background: green;
     margin:  0;
     padding: 0;
     height: 15px;
