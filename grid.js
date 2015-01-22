@@ -148,8 +148,8 @@ var map = {
 }
 
 // driving
-game_map = new Map();
-game_map.mapGen();
+// game_map = new Map();
+// game_map.mapGen();
 // manAtArms1 = new Soldier(2,-4);
 // manAtArms2 = new Soldier(2,-3);
 // manAtArms3 = new Soldier(2,-2);
